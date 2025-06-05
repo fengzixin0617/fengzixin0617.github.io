@@ -1,11 +1,7 @@
-title: GSoC 2025 Blog
-description: Google Summer of Code 2025 Blog 
+title: Zixin Feng's page
+description: Personal portfolio and GSoC 2025 blogs
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
-
-author: Zixin Feng 
-email: fengzixin0617@gmail.com
-
-permalink: /:title/
+permalink: /:categories/:title/
