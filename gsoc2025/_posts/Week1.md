@@ -11,7 +11,7 @@ categories: [gsoc]
 
 - Set up development environment
 - Read through project documentation
-- Had first meeting with mentor
+- Had first meeting with mentor1
 
 ## Challenges Faced
 
